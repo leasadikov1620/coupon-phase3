@@ -1,0 +1,11 @@
+.myMenu {
+	text-align:center;
+}
+
+ul{
+    list-style-type: none;
+    text-align: left;
+}
+details{
+    text-align: left;
+}
